@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Rajasthan",
+      "description": "Known for its grand forts, palaces, and desert landscapes, Rajasthan offers a glimpse into India's royal heritage.",
+      "img": "https://travelindiatravel.in/wp-content/uploads/2022/10/udaipur-ambrai-ghat-udaipurian.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Maharashtra",
+      "description": "A state of vibrant cities and historic caves, Maharashtra is home to Mumbai, the Gateway of India, and the Ajanta and Ellora caves.",
+      "img": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/mumbai-maharashtra.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Kerala",
+      "description": "Famed for its serene backwaters, lush greenery, and cultural richness, Kerala is known as 'God's Own Country.'",
+      "img": "https://s3.india.com/wp-content/uploads/2024/08/Kerala-Travel-Guide_-Discover-Gods-Own-Country-On-A-Budget.jpg"
+    }
+  ]
+}
